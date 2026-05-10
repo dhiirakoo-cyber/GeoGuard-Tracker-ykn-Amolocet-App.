@@ -1,0 +1,8 @@
+{
+  "name": "GeoGuard v1.0",
+  "description": "Appii hordoffii geolocations fi bilbilaa Afaan Oromootti qophaa'e.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
